@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Tashfeen | Power BI Specialist & Web Developer 🚀</h1>
+<h1 align="center">🚀 Tashfeen | Data Analyst | Power BI Developer | Python Developer | ML/DL Enthusiastic Learner 🚀</h1>
 <h3 align="center">Analyzing Data & Crafting Seamless Web Experiences</h3>
 
 <p align="center">
@@ -9,7 +9,6 @@
 
 ### 💼 Professional Journey
 - 📊 Power BI Specialist, visualizing data for impactful decision-making
-- 🌐 Web Developer, creating responsive sites with HTML, CSS, Bootstrap, and JavaScript
 - 💻 Skilled in jQuery, Python, SQL, and Microsoft Excel & Word for integrated solutions
 
 ### 🛠️ Tech Arsenal & Learning Path
