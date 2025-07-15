@@ -9,10 +9,20 @@
 
 ### 💼 Professional Journey
 - 📊 Power BI Specialist, visualizing data for impactful decision-making
-- 💻 Skilled in jQuery, Python, SQL, and Microsoft Excel & Word for integrated solutions
+- 💻 Skilled in Machine Learning, Python, SQL, and Microsoft Excel & Word for integrated solutions
 
 ### 🛠️ Tech Arsenal & Learning Path
 <p align="left">
+ 
+  <img src="https://img.shields.io/badge/Data_Analyst-4B8BBE?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Data Analyst" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Python_Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML" />
+  <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" alt="DL" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+
+
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
