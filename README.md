@@ -8,8 +8,11 @@
 </p>
 
 ### 💼 Professional Journey
-- 📊 Power BI Specialist, visualizing data for impactful decision-making
-- 💻 Skilled in Machine Learning, Python, SQL, and Microsoft Excel & Word for integrated solutions
+📊 Power BI Specialist – Visualizing data for impactful decision-making
+🤖 ML/DL Enthusiast – Solving real-world problems using AI techniques
+💻 Python Developer – Writing clean, efficient, and data-driven code
+🗃️ SQL Specialist – Extracting insights from relational databases
+📈 Office Tools Pro – Using Excel & Word for reports, automation, and modeling
 
 ### 🛠️ Tech Arsenal & Learning Path
 <p align="left">
@@ -21,17 +24,6 @@
   <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" alt="DL" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-
-
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word" />
 </p>
 
 ### 🌟 Key Projects & Achievements
