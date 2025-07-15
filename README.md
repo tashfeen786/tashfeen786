@@ -8,11 +8,11 @@
 </p>
 
 ### 💼 Professional Journey
-📊 Power BI Specialist – Visualizing data for impactful decision-making
-🤖 ML/DL Enthusiast – Solving real-world problems using AI techniques
-💻 Python Developer – Writing clean, efficient, and data-driven code
-🗃️ SQL Specialist – Extracting insights from relational databases
-📈 Office Tools Pro – Using Excel & Word for reports, automation, and modeling
+-📊 Power BI Specialist – Visualizing data for impactful decision-making.
+-🤖 ML/DL Enthusiast – Solving real-world problems using AI techniques.
+-💻 Python Developer – Writing clean, efficient, and data-driven code.
+-🗃️ SQL Specialist – Extracting insights from relational databases.
+-📈 Office Tools Pro – Using Excel & Word for reports, automation, and modeling.
 
 ### 🛠️ Tech Arsenal & Learning Path
 <p align="left">
