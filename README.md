@@ -20,8 +20,11 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Data_Analyst-4B8BBE?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Data Analyst" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML" />
+  <img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge&logo=pytorch&logoColor=white" alt="DL" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
@@ -69,4 +72,4 @@
 - Expanding machine learning  skills with Python and machine learning models
 - Contributing to open-source projects to share knowledge and grow as a developer
 
-<h3 align="center">🔥 Passionate about data analysis, data visualization, and machine learning, ready for new challenges! 🔥</h3>
+<h3 align="center">🔥 Passionate about solving real-world problems with data and delivering value through analytics & machine learning. 🔥</h3>
