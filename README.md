@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Tashfeen | Data Analyst | Power BI Developer | Python Developer | ML/DL Enthusiastic Learner 🚀</h1>
+<h1 align="center">Tashfeen | Data Analyst | Power BI Developer | Python Developer | ML/DL Enthusiastic Learner</h1>
 <h3 align="center">Analyzing Data & Crafting Seamless Web Experiences</h3>
 
 <p align="center">
