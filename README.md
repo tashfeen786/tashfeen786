@@ -1,4 +1,4 @@
-<h1 align="center">Tashfeen | Data Analyst | Power BI Developer | Python Developer | ML/DL Enthusiastic Learner</h1>
+<h1 align="center">Tashfeen || Data Analyst || Python Developer || ML/DL Enthusiastic Learner || Generative AI || Automation</h1>
 <h3 align="center">Analyzing Data & Crafting Seamless Web Experiences</h3>
 
 <p align="center">
@@ -9,12 +9,11 @@
 
 ### 💼 Professional Journey
 
-- 📊 **Power BI Specialist** – Designing interactive dashboards and reports for decision-making  
 - 🤖 **ML/DL Enthusiast** – Applying machine learning models to real-world problems  
 - 💻 **Python Developer** – Automating workflows, processing data, and building smart tools  
-- 🗃️ **SQL Expert** – Querying and managing data for analytics and reporting  
-- 📈 **Microsoft Excel Pro** – Using Excel for analysis, visualization, and data automation
-
+- 🚀 **FastAPI Developer** – Building efficient APIs for scalable applications  
+- 💬 **Chatbot & Generative AI Expert** – Creating intelligent conversational agents and AI-driven solutions
+- 📊 **Power BI** – Designing interactive dashboards and reports for decision-making  
 ---
 
 ### 🛠️ Tech Stack
@@ -30,8 +29,9 @@
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chatbot-FF4500?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-6A0DAD?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
@@ -40,7 +40,8 @@
 
 - **Power BI Dashboards** – Delivered data-driven insights with dynamic, interactive visuals  
 - **Machine Learning Projects** – Built classification & prediction models using Scikit-learn  
-- **Automation Solutions** – Streamlined data workflows using Python and Excel integration  
+- **Automation Solutions** – Streamlined data workflows using Python and smart tools  
+- **Chatbots & Generative AI** – Developed AI-powered conversational systems and solutions  
 - **Data Cleaning & Visualization** – Preprocessed real-world datasets and created meaningful visualizations
 
 ---
@@ -49,8 +50,8 @@
 
 - 🔍 Mastering advanced **DAX** and **Power BI modeling** techniques  
 - 🤖 Improving ML/DL model performance and learning deep learning frameworks  
-- 📊 Building a project-based portfolio showcasing **real-world analytics**  
-- 🧠 Exploring MLOps and model deployment techniques
+- 📊 Building a project-based portfolio showcasing **real-world analytics & AI solutions**  
+- 🧠 Exploring **MLOps**, FastAPI deployments, and AI model integration
 
 ### 🌐 Connect & Collaborate
 <p align="left">
@@ -64,12 +65,12 @@
 
 ### 💡 Tech Philosophy
 <p align="center">
-  <i>"Every dataset and every line of code is an opportunity to drive business success and create digital solutions."</i>
+  <i>"Every dataset and every line of code is an opportunity to drive business success and create intelligent digital solutions."</i>
 </p>
 
 ### 🚀 Future Aspirations
-- Becoming a Power BI expert and delivering business intelligence solutions
-- Expanding machine learning  skills with Python and machine learning models
-- Contributing to open-source projects to share knowledge and grow as a developer
+- Becoming a Power BI expert and delivering business intelligence solutions  
+- Expanding machine learning and generative AI skills with Python and modern frameworks  
+- Contributing to open-source projects to share knowledge and grow as a developer  
 
-<h3 align="center">🔥 Passionate about solving real-world problems with data and delivering value through analytics & machine learning. 🔥</h3>
+<h3 align="center">🔥 Passionate about solving real-world problems with data, AI, and automation to deliver meaningful value. 🔥</h3>
