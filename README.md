@@ -13,7 +13,7 @@
 - 💻 **Python Developer** – Automating workflows, processing data, and building smart tools  
 - 🚀 **FastAPI Developer** – Building efficient APIs for scalable applications  
 - 💬 **Chatbot & Generative AI Expert** – Creating intelligent conversational agents and AI-driven solutions
-- 📊 **Power BI** – Designing interactive dashboards and reports for decision-making  
+- 📊 **Power BI** – Designing interactive dashboards and reports for decision-making    
 ---
 
 ### 🛠️ Tech Stack
