@@ -71,6 +71,6 @@
 ### 🚀 Future Aspirations
 - Becoming a Power BI expert and delivering business intelligence solutions  
 - Expanding machine learning and generative AI skills with Python and modern frameworks  
-- Contributing to open-source projects to share knowledge and grow as a developer  
-
+- Contributing to open-source projects to share knowledge and grow as a developer
+- 
 <h3 align="center">🔥 Passionate about solving real-world problems with data, AI, and automation to deliver meaningful value. 🔥</h3>
