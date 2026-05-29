@@ -7,9 +7,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tashfeen786&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/tashfeen786?style=social" alt="followers" />
-  <img src="https://img.shields.io/github/stars/tashfeen786?style=social" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=tashfeen786&label=Profile%20Views&color=0e75b6&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/tashfeen786?style=social" />
+  <img src="https://img.shields.io/github/stars/tashfeen786?style=social" />
 </p>
 
 ---
@@ -23,15 +23,17 @@ tashfeen = {
     "education" : "BS Information Technology (2025)",
     "focus"     : ["Generative AI", "RAG Systems", "Computer Vision"],
     "stack"     : ["Python", "LangChain", "FastAPI", "YOLOv12", "Groq"],
-    "currently" : "Building AI-powered products & open to opportunities"
+    "learning"  : ["PyTorch Deep Learning", "LLM Fine-tuning", "MLOps"],
+    "available" : "Open to AI Engineer & Python Backend roles 🚀"
 }
 ```
 
 - 🤖 Building **RAG systems** with LangChain, HuggingFace & Groq API
 - 👁️ Developing **Computer Vision** apps with YOLOv12 & OpenCV
+- 🔥 Completed **PyTorch** — ANN, CNN, LSTM, RNN, Transfer Learning & Optuna
 - ⚡ Creating **FastAPI backends** for production AI applications
 - 🧠 Exploring **LLM integrations**, prompt engineering & AI automation
-- 📚 100 Days of ML — consistently learning & shipping
+- 📚 **39 repos** — consistently building & shipping
 
 ---
 
@@ -40,7 +42,7 @@ tashfeen = {
 ### 🤖 CryptoChat — RAG-Based AI Crypto Investment Assistant
 > LangChain · Groq (LLaMA3) · HuggingFace · PostgreSQL · Binance API · FastAPI · Next.js
 
-Full-stack GenAI platform combining RAG pipeline with live crypto 
+Full-stack GenAI platform combining RAG pipeline with live crypto
 market data to deliver personalized investment guidance.
 
 [![View Project](https://img.shields.io/badge/View%20Project-CryptoChat-purple?style=for-the-badge&logo=github)](https://github.com/tashfeen786/Crypto_ChatBOt_system)
@@ -50,20 +52,30 @@ market data to deliver personalized investment guidance.
 ### 🪖 HelmetEye — AI Traffic Surveillance System (FYP)
 > YOLOv12 · OpenCV · OCR · FastAPI · Next.js · TypeScript · PostgreSQL
 
-Real-time traffic surveillance system — detects helmet violations 
-& extracts number plates automatically using computer vision.
+Real-time traffic surveillance — detects helmet violations &
+extracts number plates automatically using computer vision.
 
 [![View Project](https://img.shields.io/badge/View%20Project-HelmetEye-red?style=for-the-badge&logo=github)](https://github.com/tashfeen786/HelmetEye)
 
 ---
 
-### 🧠 STEMETA Internship — 9 ML Projects
+### 🧠 STEMETA Internship — 9 Real-World ML Projects
 > Scikit-learn · NLP · SMOTE · Flask · Healthcare · FinTech · Telecom
 
-9 real-world ML projects from AI/ML internship — fraud detection, 
-churn prediction, NLP spam classifier, Flask API deployment.
+9 production-level ML projects from AI/ML internship — fraud
+detection, churn prediction, NLP classifier, Flask API deployment.
 
 [![View Projects](https://img.shields.io/badge/View%20Projects-STEMETA-green?style=for-the-badge&logo=github)](https://github.com/tashfeen786/STEMETA_Intership_Projects)
+
+---
+
+### 🔥 PyTorch — Complete Deep Learning Repository
+> ANN · CNN · LSTM · RNN · Transfer Learning · Optuna · GPU Training
+
+Complete PyTorch journey — from tensors to transfer learning with
+Fashion MNIST, hyperparameter tuning and GPU optimization.
+
+[![View Project](https://img.shields.io/badge/View%20Project-PyTorch-orange?style=for-the-badge&logo=pytorch)](https://github.com/tashfeen786/PyTorch)
 
 ---
 
@@ -87,10 +99,11 @@ churn prediction, NLP spam classifier, Flask API deployment.
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🧪 ML & Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+### 🔥 Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-3F4F75?style=for-the-badge&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
@@ -123,13 +136,19 @@ churn prediction, NLP spam classifier, Flask API deployment.
 | [🤖 Crypto_ChatBOt_system](https://github.com/tashfeen786/Crypto_ChatBOt_system) | RAG-based AI crypto assistant | ⭐ |
 | [🪖 HelmetEye](https://github.com/tashfeen786/HelmetEye) | YOLOv12 traffic surveillance FYP | ⭐ |
 | [🧠 STEMETA_Intership_Projects](https://github.com/tashfeen786/STEMETA_Intership_Projects) | 9 real-world ML projects | ⭐ |
+| [🔥 PyTorch](https://github.com/tashfeen786/PyTorch) | Complete DL — ANN, CNN, LSTM, Transfer Learning | ⭐ |
 | [🦜 LangChain](https://github.com/tashfeen786/LangChain) | LangChain hands-on learning | ⭐ |
 | [📚 100DaysOfMachineLearning](https://github.com/tashfeen786/100DaysOfMachineLearning) | 100 days ML journey | ⭐ |
 | [🏥 PatientsManagementSystem](https://github.com/tashfeen786/PatientsManagementSystem) | FastAPI + ML insurance predictor | ⭐ |
 | [🛡️ Pydantic](https://github.com/tashfeen786/Pydantic) | Pydantic v2 deep dive | ⭐ |
+| [🐍 Python_Programming](https://github.com/tashfeen786/Python_Programming) | Python fundamentals to FastAPI | ⭐ |
 | [🧩 DSA_With_Python](https://github.com/tashfeen786/DSA_With_Pyhton) | DSA problems in Python | ⭐ |
 | [💳 LoanApprovalPrediction](https://github.com/tashfeen786/LoanApprovalPrediction) | ML loan status classifier | ⭐ |
 | [🛍️ CustomerSegmentation](https://github.com/tashfeen786/CustomerSegmentation) | K-Means + DBSCAN clustering | ⭐ |
+| [📈 SalesForecasting](https://github.com/tashfeen786/SalesForecasting) | Walmart sales time series | ⭐ |
+| [😷 Face_Mask_detection](https://github.com/tashfeen786/Face_Mask_detection) | Real-time face mask detection | ⭐ |
+| [😊 Facial_Emotion_Detection_system](https://github.com/tashfeen786/Facial_Emotion_Detection_system) | Emotion detection CV system | ⭐ |
+| [🎯 RealTimeObjectDetection](https://github.com/tashfeen786/RealTimeObjectDetection) | Real-time object detection | ⭐ |
 
 ---
 
@@ -142,8 +161,11 @@ churn prediction, NLP spam classifier, Flask API deployment.
   <a href="mailto:tashfeen247@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/tashfeen786" target="_blank">
+  <a href="https://github.com/tashfeen786">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://x.com/TashfeenAK">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
