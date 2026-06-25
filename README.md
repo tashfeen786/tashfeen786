@@ -1,6 +1,6 @@
 # Hi, I'm Tashfeen Aziz 👋
 
-### AI Engineer · LangGraph & RAG Systems · Python Backend · Generative AI
+### AI Engineer · LangGraph LangChain & RAG Systems · Python Backend · Generative AI
 
 [![profile views](https://komarev.com/ghpvc/?username=tashfeen786&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/tashfeen786)
 [![followers](https://img.shields.io/github/followers/tashfeen786?style=social)](https://github.com/tashfeen786)
